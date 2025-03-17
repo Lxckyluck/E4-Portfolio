@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.text-gradient {
+    background-clip: text;
+    color: transparent;
+    background-image: linear-gradient(to right, deepskyblue, greenyellow);
+}
+
+.div-animation {
+    animation: shiftPosition 2s infinite alternate;
+    background: linear-gradient(263.82deg, #00ffff -2.48%, #007fff 99.33%);
+    filter: blur(100px);
+    height: 100px;
+    width: 300px;
+    position: relative;
+    bottom: -20%;
+    margin: auto;
+}
+
+@keyframes shiftPosition {
+    0% {
+        transform: translate(-100%, 0);
+    }
+    100% {
+        transform: translate(100%, 0);
+    }
+}
+
