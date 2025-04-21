@@ -112,14 +112,6 @@ export default function Header() {
               className={
                 "hover:text-primary transition ease-in-out hover:-translate-x-0 hover:scale-125 duration-300"
               }
-              href={"/certifications"}
-            >
-              Certifications
-            </Link>
-            <Link
-              className={
-                "hover:text-primary transition ease-in-out hover:-translate-x-0 hover:scale-125 duration-300"
-              }
               href={"/watch"}
             >
               Veille technologique
@@ -160,13 +152,6 @@ export default function Header() {
                     className={"hover:bg-primary hover:text-white"}
                   >
                     Situations professionel
-                  </DropdownMenuItem>
-                </Link>
-                <Link href={"/certifications"}>
-                  <DropdownMenuItem
-                    className={"hover:bg-primary hover:text-white"}
-                  >
-                    Certifications
                   </DropdownMenuItem>
                 </Link>
                 <Link href={"/watch"}>

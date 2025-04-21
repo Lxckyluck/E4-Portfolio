@@ -43,13 +43,6 @@ export default function Footer() {
               </ul>
               <ul className="text-white dark:text-gray-400 font-medium">
                 <li className="mb-4">
-                  <a href="/certifications" className="hover:underline ">
-                    Certifications
-                  </a>
-                </li>
-              </ul>
-              <ul className="text-white dark:text-gray-400 font-medium">
-                <li className="mb-4">
                   <a href="/watch" className="hover:underline ">
                     Veille technologique
                   </a>
