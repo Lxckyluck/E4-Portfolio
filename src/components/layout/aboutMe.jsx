@@ -151,7 +151,7 @@ export default function AboutMe() {
               }
             >
               <Image
-                src={"/aboutMe/school.png"}
+                src={"/aboutMe/LOGO-NEXTECH.jpg"}
                 alt={"school"}
                 width={"100"}
                 height={"100"}
@@ -160,7 +160,7 @@ export default function AboutMe() {
               <h1 className={"text-center text-2xl font-bold"}>
                 Étudiant au BTS SIO{" "}
                 <Link
-                  href={"https://www.harvard.edu/"}
+                  href={""}
                   className={
                     "hover:text-white text-lg px-2 bg-gradient-to-r from-blue-400 to-green-500 rounded-lg\n" +
                     "py-2 mr-2 text-white font-bold transition ease-in-out hover:-translate-x-0 hover:scale-110 duration-300 hover:to-indigo-300"
@@ -186,7 +186,7 @@ export default function AboutMe() {
               }
             >
               <Image
-                src={"/aboutMe/company.png"}
+                src={"/aboutMe/OTV.jpg"}
                 alt={"company"}
                 width={"100"}
                 height={"100"}
@@ -195,7 +195,7 @@ export default function AboutMe() {
               <h1 className={"text-center text-2xl font-bold"}>
                 Alternant Support & Solution chez
                 <Link
-                  href={"https://en.wikipedia.org"}
+                  href={""}
                   className={
                     "ml-2 hover:text-white text-lg p-5 bg-gradient-to-r from-blue-900 to-blue-700 rounded-lg\n" +
                     "py-2 mr-2 text-white font-bold transition ease-in-out hover:-translate-x-0 hover:scale-110 duration-300 hover:to-indigo-300"
@@ -230,7 +230,7 @@ export default function AboutMe() {
               <h1 className={"text-center text-2xl font-bold"}>
                 Passioné de
                 <Link
-                  href={"https://en.wikipedia.org"}
+                  href={""}
                   className={
                     "hover:text-white text-lg p-3 bg-gradient-to-r from-blue-300 via-blue-500 to-blue-500 rounded-lg\n" +
                     "py-2 ml-2 text-white font-bold transition ease-in-out hover:-translate-x-0 hover:scale-110 duration-300 hover:to-indigo-300"
