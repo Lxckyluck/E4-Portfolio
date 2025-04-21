@@ -140,6 +140,15 @@ export default function AboutMe() {
                   </AlertDialogContent>
                 </AlertDialog>
               </section>
+              <div className="mt-3">
+                <Link
+                  href="/aboutMe/Annexe-6-1-Tableau-de-synthese-Epreuve-E4-BTS-SIO.pdf"
+                  target="_blank"
+                  className="block w-full text-center bg-blue-950 text-blue-400 border border-blue-400 border-b-4 font-medium px-4 py-2 rounded-md hover:brightness-150 hover:border-t-4 hover:border-b active:opacity-75 outline-none duration-300"
+                >
+                  Voir le tableau de synthèse
+                </Link>
+              </div>
             </div>
           </div>
         </div>
