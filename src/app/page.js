@@ -2,7 +2,6 @@ import AboutMe from "@/components/layout/aboutMe";
 import HomeHero from "@/components/homeHero";
 import NumberProject from "@/components/layout/numberProject";
 import ProjectComp from "@/components/layout/project";
-import Ctf_and_platformes from "@/components/layout/ctf_and_platformes";
 
 export default function Home() {
   return (
@@ -11,7 +10,6 @@ export default function Home() {
           <AboutMe />
           <NumberProject/>
           <ProjectComp />
-          <Ctf_and_platformes/>
       </main>
   );
 }
