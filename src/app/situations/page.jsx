@@ -38,16 +38,6 @@ export default function SituationPage() {
           <section className={"flex max-w-xl mx-auto"}>
             <div className={"max-w-64 mx-auto w-full"}>
               <AlertDialog>
-                <AlertDialogTrigger
-                  className={
-                    "bg-blue-950 text-blue-300 border border-blue-400 " +
-                    "border-b-4 font-medium overflow-hidden relative px-4 py-2 rounded-md hover:brightness-150 hover:border-t-4\n" +
-                    "hover:border-b active:opacity-75 outline-none duration-300 group mt-4 w-full"
-                  }
-                >
-                  <span className="bg-blue-400 shadow-blue-400 absolute -top-[150%] left-0 inline-flex w-80 h-[5px] rounded-md opacity-50 group-hover:top-[150%] duration-500 shadow-[0_0_10px_10px_rgba(0,0,0,0.3)]"></span>
-                  Summary table
-                </AlertDialogTrigger>
                 <AlertDialogContent
                   className={
                     "bg-primary border-0 max-w-sm md:max-w-4xl bg-gradient-to-t from-gray-900 to-blue-850 rounded-lg"
@@ -82,16 +72,6 @@ export default function SituationPage() {
             </div>
             <div className={"max-w-64 mx-auto w-full"}>
               <AlertDialog>
-                <AlertDialogTrigger
-                  className={
-                    "bg-blue-950 text-blue-300 border border-blue-400 " +
-                    "border-b-4 font-medium overflow-hidden relative px-4 py-2 rounded-md hover:brightness-150 hover:border-t-4\n" +
-                    "hover:border-b active:opacity-75 outline-none duration-300 group mt-4 w-full"
-                  }
-                >
-                  <span className="bg-blue-400 shadow-blue-400 absolute -top-[150%] left-0 inline-flex w-80 h-[5px] rounded-md opacity-50 group-hover:top-[150%] duration-500 shadow-[0_0_10px_10px_rgba(0,0,0,0.3)]"></span>
-                  Skill descriptions
-                </AlertDialogTrigger>
                 <AlertDialogContent
                   className={
                     "bg-primary border-0 max-w-sm md:max-w-4xl bg-gradient-to-t from-gray-900 to-blue-850"
