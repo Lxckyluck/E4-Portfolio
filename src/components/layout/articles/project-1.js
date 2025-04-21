@@ -1,12 +1,11 @@
 export const project1 = {
-    texte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore and dolore" +
-        " magna aliqua. Ut enim ad minim veniam, whos nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    texte: "FastSushi API est une API pour mes deux autres projets (FastSushi-DesktopApp & FastSushi-WebApp) présentés aussi dans mon portfolio",
     language: {
-        avatar3: "/logoTechnoTools/python.png"
+        avatar3: "/logoTechnoTools/Node_express.png"
     },
     outils: {
-        outil: "/logoTechnoTools/docker.jpg",
-        outil2: "/logoTechnoTools/github.png",
-        outil5: "/logoTechnoTools/gitkraken.jpg",
+        outil1: "/logoTechnoTools/github.png",
+        outil2: "/logoTechnoTools/postman.png",
+        outil3: "/logoTechnoTools/mariadb.jpg",
     },
 }

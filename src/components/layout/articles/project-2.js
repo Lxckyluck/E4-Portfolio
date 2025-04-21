@@ -1,12 +1,10 @@
 export const project2 = {
-    texte: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore and dolore" +
-        " magna aliqua. Ut enim ad minim veniam, whos nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. ",
+    texte: "Le projet FastSushi-WebApp est une application web permettant à des clients de commander des produits japonais",
     language: {
-        avatar8: "/logoTechnoTools/bash.png"
+        avatar8: "/logoTechnoTools/Vue.png"
     },
     outils: {
-        outil: "/logoTechnoTools/docker.jpg",
-        outil2: "/logoTechnoTools/github.png",
-        outil5: "/logoTechnoTools/gitkraken.jpg",
+        outil1: "/logoTechnoTools/github.png",
+        outil2: "/logoTechnoTools/Vue.png",
     },
 }
